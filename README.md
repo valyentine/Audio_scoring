@@ -11,7 +11,7 @@ conda activate score
 
 目标文件夹下的音频需为wav格式，文本需为txt格式，且除参考音频外的推理音频需与文本一一对应（前缀相同）  
 如下图所示：
-
+！[image](https://github.com/valyentine/img/blob/main/image.png)
 ###
 **评分**  
 
